@@ -8,4 +8,6 @@ draw(1,function(){
     console.log(x);
     x = x + 1;
 });
+
 </code></pre>
+![image](https://user-images.githubusercontent.com/37399578/38735463-d21e2c38-3f63-11e8-932f-44ab72d91923.png)
