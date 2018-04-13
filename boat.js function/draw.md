@@ -3,6 +3,9 @@ draw
 //draw function 
 <pre><code>
 var x=1;
+function setting(){
+        console.log("setting finish");
+}
 draw(1,function(){
     // 1 time frame 1 time play this function
     console.log(x);
